@@ -1,0 +1,3 @@
+Problem-14
+
+Check Automorphic Number

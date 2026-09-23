@@ -1,0 +1,3 @@
+Problem-31
+
+Print 1 to N

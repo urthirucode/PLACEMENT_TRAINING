@@ -1,0 +1,3 @@
+Problem-17
+
+Find First Digit
