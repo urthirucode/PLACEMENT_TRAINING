@@ -1,3 +1,0 @@
-Problem-05
-
-Find Smallest of 3 Numbers

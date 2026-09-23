@@ -1,3 +1,0 @@
-Problem-06
-
-Check Divisibility by 5

@@ -1,3 +1,0 @@
-Problem-40
-
-Count Multiples of 3 from 1 to N

@@ -1,3 +1,0 @@
-Problem-18
-
-Count Number of Digits

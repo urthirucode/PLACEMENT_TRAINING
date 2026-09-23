@@ -1,3 +1,0 @@
-Problem-11
-
-Check Armstrong Number

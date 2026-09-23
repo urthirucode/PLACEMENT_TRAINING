@@ -1,3 +1,0 @@
-Problem-21
-
-Reverse a Number

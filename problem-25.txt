@@ -1,3 +1,0 @@
-Problem-25
-
-Sum of Odd Digits

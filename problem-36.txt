@@ -1,3 +1,0 @@
-Problem-36
-
-Sum of Even Numbers up to N

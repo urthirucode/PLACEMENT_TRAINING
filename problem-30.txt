@@ -1,3 +1,0 @@
-Problem-30
-
-Remove Last Digit

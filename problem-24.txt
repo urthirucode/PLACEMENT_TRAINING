@@ -1,3 +1,0 @@
-Problem-24
-
-Sum of Even Digits
